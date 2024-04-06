@@ -2,8 +2,9 @@
 
 ## Welcome to Danny's Diner Analysis Project 🍽️
 Dive into insightful SQL queries and visually compelling Power BI dashboards revealing trends, patterns, and actionable insights for optimized decision-making. Let's explore the data-driven journey of Danny's Diner.
+
  
-**The following questions are explored in this case study:**
+## The following questions are explored in this case study:
 
 1. What is the total amount each customer spent at the restaurant?
 2. How many days has each customer visited the restaurant?
